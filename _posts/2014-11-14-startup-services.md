@@ -67,7 +67,7 @@ category: startup
      - Worktile
      - Teambition
 
-- Issue Management
+- Issue Tracking
      - Trello
      - JIRA
      - Redmine
@@ -90,10 +90,10 @@ category: startup
      - Server
           - NewRelic
           - 监控宝
-     - Service
+     - Server App
           - NewRelic
           - 监控宝
-     - Simple
+     - Website
           - Pingdom
           - DNSPod
 
@@ -136,7 +136,7 @@ category: startup
      - SendCloud
 
 - SMS
-     - 自建吧
+     - 自建
 
 - Push Service
      - 个推
