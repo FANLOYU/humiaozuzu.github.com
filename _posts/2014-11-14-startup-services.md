@@ -159,7 +159,7 @@ category: startup
      - UserVoice
 
 - Support Ticket System
-     - Zenddask
+     - Zendesk
      - SupportFu
      - Udesk
      - 待客
