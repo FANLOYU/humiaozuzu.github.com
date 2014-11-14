@@ -1,10 +1,19 @@
 ---
 layout: page
 title: About
+comments: true
 ---
 
-Give people something to read and get to know you. Here's my attempt: this is [Mu-An](http://muan.co), a designer developer who lives in London at the moment.
+Maple，喜欢游戏「Maple Story」，果粉，Python DevOps，目前也干点 SA/DBA 的活。
 
-Tweet at [@muanchiou](http://twitter.com/muanchiou), read my code on [GitHub](http://github.com/muan), see my designs on [Dribbble](http://dribbble.com/muan), find my CV on [LinkedIn](http://uk.linkedin.com/in/muanchiou).
+我的 [Wishlist](/wishlist.html)，Blog 的 [FeedBurner](http://feeds.feedburner.com/maple_valley)。
 
-This theme is made by me. You have a nice day. ♥
+#### Contact
+
+<div style="width:400px;height:150px;">
+    <div class="github-card" data-github="humiaozuzu" data-theme="default"></div>
+</div>
+<script src="http://lab.lepture.com/github-cards/widget.js"></script>
+
+- Gtalk/Gmail: maplevalley8(at)gmail
+- Twitter: [@humiaozuzu](https://twitter.com/humiaozuzu)

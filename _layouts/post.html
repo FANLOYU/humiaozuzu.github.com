@@ -25,7 +25,7 @@
         {% include share.html %}
       {% endif %}
 
-      {% if page.disqus == 'y' %}
+      {% if page.comments != 'false' %}
         {% include disqus.html %}
       {% endif %}
       {% include links.html %}
