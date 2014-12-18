@@ -102,7 +102,6 @@ category: startup
           - NewRelic
      - App
           - 听云
-          - OneAPM
 
 - Error Tracking
      - Server
@@ -136,7 +135,7 @@ category: startup
      - SendCloud
 
 - SMS
-     - 自建
+     - 云片网
 
 - Push Service
      - 个推
@@ -146,13 +145,18 @@ category: startup
 - Comment
      - Disqus
      - 多说
+     - 友言
 
 - Express
      - 快递100
 
 - Realtime Communication
      - 环信
+     - 融云
      - LeanCloud
+
+- Payment
+     - Ping++
 
 - Feedback
      - Olark
