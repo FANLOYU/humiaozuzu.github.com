@@ -10,7 +10,7 @@ links:
   - name:         Blog
     url:          /
   - name:         RSS
-    url:          /feed.xml
+    url:          /atom.xml
   - name:         GitHub
     url:          http://github.com/humiaozuzu
     external:     true
