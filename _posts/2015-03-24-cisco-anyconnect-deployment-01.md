@@ -87,5 +87,5 @@ LD_LIBRARY_PATH=/opt/local/lib ./sbin/ocserv -c etc/config -f -d 1
 如果连接成功了，那么就开启服务
 
 ``` bash
-service ovserv start
+service ocserv start
 ```
