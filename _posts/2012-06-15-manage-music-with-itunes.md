@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "使用 iTunes 管理音乐"
-category: productivity
+category: mac
 ---
 
 获取音乐

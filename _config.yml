@@ -9,6 +9,8 @@ google_analytics: "UA-40449098-1"
 links:
   - name:         Blog
     url:          /
+  - name:         Category
+    url:          /category.html
   - name:         RSS
     url:          /atom.xml
   - name:         GitHub

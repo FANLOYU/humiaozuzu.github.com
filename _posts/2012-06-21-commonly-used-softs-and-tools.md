@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "常用软件和工具"
-category: productivity
+title: "常用软件和工具的选择原则和使用技巧"
+category: mac
 ---
 
 作为Win/Linux/Mac都玩过几年的菜鸟，下面将简单的介绍下我喜欢的软件以及喜欢的原因。

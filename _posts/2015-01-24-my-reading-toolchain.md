@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 我的阅读技术栈
-category: PKM
+category: mind hacks
 ---
 
 ### 阅读流程

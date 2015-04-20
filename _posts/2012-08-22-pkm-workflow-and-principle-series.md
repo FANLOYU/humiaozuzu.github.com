@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PKM 流程及工具系列介绍"
-category: productivity
+category: personal knowledge management
 ---
 
 说到 PKM(Person Knowledge Management)，大家一定会想到各种麻烦的工具，复杂的理论，实际上，他并不复杂，因为支撑这些工具的原理都是相似的：

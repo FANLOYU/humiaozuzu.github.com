@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 让睡眠的 Mac 支持 iTunes 家庭共享功能
+title: OpenWrt 下让睡眠的 Mac 支持 iTunes 家庭共享功能
 category: Mac
 ---
 

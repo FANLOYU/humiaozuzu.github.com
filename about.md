@@ -4,9 +4,9 @@ title: About
 comments: true
 ---
 
-Maple，喜欢游戏「Maple Story」，果粉，Python DevOps，目前也干点 SA/DBA 的活。
+Maple，中文名胡淼，喜欢游戏「Maple Story」，果粉，Python DevOps，目前也干点 SA/DBA 的活。
 
-我的 [Wishlist](/wishlist.html)，Blog 的 [FeedBurner](http://feeds.feedburner.com/maple_valley)。
+我的 [Wishlist](/wishlist.html)。
 
 #### Contact
 
