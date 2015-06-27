@@ -17,3 +17,4 @@ Maple，中文名胡淼，喜欢游戏「Maple Story」，果粉，Python DevOps
 
 - Gtalk/Gmail: maplevalley8(at)gmail
 - Twitter: [@humiaozuzu](https://twitter.com/humiaozuzu)
+- Wechat: humiaozuzu
