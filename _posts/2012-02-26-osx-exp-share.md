@@ -9,6 +9,7 @@ category: Mac
 3. 2013-02-27 添加了些 web/网络开发方面的工具
 4. 2014-05-03 删除了些死掉的软件
 5. 2015-01-02 重新整理了分类
+6. 2015-06-28 加了点新软件
 
 软件推荐
 -------
@@ -16,26 +17,25 @@ category: Mac
 ### 办公
 
 - Keynote - 这才是 PPT 神器
-- Office 2011 (Word, PPT, Excel) - 不用在虚拟机里面折腾了
+- Office 2016 - 全新的 Office
 - PreziDesktop - Prezi，PPT 神器二号
 - TimeLine 3D - 基于时间轴的展示
 - Adobe Acrobat - 编辑 PDF
 
 ### 阅读写作
 
-- Preview - 浏览pdf
+- Preview - 浏览 PDF
 - Kindle - Mobi 阅读，可以同步阅读的进度
 - Clearview - Mobi 阅读器
 - Murasaki - ePub 阅读
 - iChm - Chm 阅读
-- OmmWriter - 小黑屋写作
 - Mou - Markdown 写作
 
 ### 社交网络
 
-- QQ - Mac 下依旧是 CPU 占用前十的渣渣
+- QQ - 据说 Mac 下用户最想砍的人就是 QQ 的产品经理
 - 阿里旺旺 - 淘宝
-- Messages - Google Hangouts and iMessage
+- Messages - Google Hangouts and SMS
 - Tweetbot - twitter 最好的客户端，没有之一
 - Limechat - irc
 - Skype - 团队会议用
@@ -53,15 +53,19 @@ category: Mac
 
 #### 图像编辑
 
-- Adobe Photoshop CS6 - 万能
-- Pixelmator - PS精简版
+- Adobe Photoshop CC - 万能
 - Sketch - UI
+- Pixelmator - PS 精简版
 - OmniGraffle - 作图软件，各种流程图类图
+- Xee³ - 好用的图片浏览工具
+- Redacted - 加马赛克
+- GifGrabber - 录制 gif
 
 #### 配色工具
 
 - ColorSchemer Studio 2 - 配色方案工具
 - Spectrum - 配色方案工具
+- sip - 取色器
 - Pochade - 取色工具
 
 ### 个人信息/资料管理
@@ -69,28 +73,29 @@ category: Mac
 #### 日常
 
 - Evernote - 笔记管理
+- Alternote - Evernote 的轻量级客户端
 - Dropbox - 文件同步
 - Day One - 每日日记
-- Aperture/iPhoto - 照片管理，有单反的就用 Aperture，没的话 iPhoto 足够了
+- 1Password - 密码管理+自动填写工具
+- Photos - 照片管理，为 Aperture 默哀
 - Mailbox/Airmail - 同步 Gmail
-- Fantastical - 日历增强
+- Kiwi for Gmail - 最好用的 Gmail 客户端
+- Fantastical - 日历
 
 #### 设计湿 or 程序猿 or Blogger
 
-- Sparkbox/Inboard/Ember - 设计素材与灵感的收集管理工具
-- Dash/Snippets/Codebox - 前者免费，后者收费，代码片段管理 app
+- Inboard - 设计素材与灵感的收集管理工具
+- Dash/SnippetsLab - 代码片段
 - Dash - 文档管理
-- MarsEdit - WordPress 写作 app
 
 #### 个人知识管理
 
-- MindNode Pro - 思维导图
+- MindNode - 思维导图
 - OmniOutliner - 任务拆分，思维整理
-- OmniFocus/Things - GTD
+- OmniFocus - GTD
 - Pocket - Pocket 的桌面 App
 - Reeder - 看 RSS
 - Spillo - 个人书签服务 Pinboard.in 的桌面 app
-- 1Password - 密码管理+自动填写工具
 
 ### 开发相关
 
@@ -98,9 +103,9 @@ category: Mac
 
 - HomeBrew - 最好的包管理工具
 - Vagrant Manager - 管理 Vagrant 镜像
-- SourceTree - Git/Hg 版本管理工具，而且还免费，Atlassian 是家良心公司。
+- SourceTree - Git/Hg 版本管理工具，而且还免费，Atlassian 是家良心公司
+- Tower - 比 SourceTree 更好用，一分钱一分货啊
 - Patterns - 正则表达式工具
-- Xmplify - XML 工具
 
 #### 代码编辑
 
@@ -131,15 +136,15 @@ category: Mac
 
 - LiveReload/Codekit - coffee/haml/sass 等实时编译 与 html 实时预览
 - Postman - REST API 测试
-- VirtualHostX - Apache gui 管理工具
+- Paw - 也是一个 REST 测试的工具，原生的更好用
 
 #### 数据库
 
-- MesaSQLite - SQLite
+- MesaSQLite/Base - SQLite
 - MongoHub - MongoDB
 - Sequel Pro - MySQL
-- RedisX/Redis Desktop Manager - redis 数据库管理
-- Navicat Data Modeler/SQLEditor - 数据库建模
+- Redis Desktop Manager - redis 数据库管理
+- Navicat Data Modeler - 数据库建模
 
 
 ### 实用工具
@@ -153,10 +158,10 @@ category: Mac
 - GoAgentX - 你懂的
 - RescueTime - 统计时间使用
 - Fluid - 封装 web 应用成 native app
-- Cloud - 分享图片
 - iStat Menus - 在系统状态栏显示 cpu 和网速等信息
-- ClipMenu - 剪切板管理器
 - Bartender 菜单栏图标管理
+- ClipMenu - 剪切板管理器
+- Cloud/Droplr - 分享图片
 
 #### 系统增强
 
